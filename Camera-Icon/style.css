@@ -1,0 +1,87 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%; /* bydefault font size 10px now 1rem = 10px*/
+}
+
+:root {
+  --camera-body: #d2dae2;
+  --box-shadow: #222a2f;
+  --power-btn: #0be881;
+  --camera-lens: #218c74;
+}
+
+.center_div {
+  width: 100vw;
+  height: 100vh;
+  background-color: hsl(206, 21%, 93%);
+  display: grid;
+  place-items: center;
+}
+
+.camera_body {
+  width: 20rem;
+  height: 15rem;
+  background-color: var(--camera-body);
+  border-radius: 1rem;
+  box-shadow: 0 1rem 1.2rem -1rem var(--box-shadow);
+  position: relative;
+  display: grid;
+  place-items: center;
+}
+
+.camera_btn {
+  width: 3rem;
+  height: 0.8rem;
+  background-color: var(--power-btn);
+  position: absolute;
+  top: -0.8rem;
+  left: 2rem;
+  border-radius: 0.8rem 0.8rem 0 0;
+}
+.camera_flash {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background-color: #fff;
+  position: absolute;
+  right: 2rem;
+  top: 1rem;
+}
+
+.camera_lens {
+  width: 11rem;
+  height: 11rem;
+  border-radius: 50%;
+  background-color: #fff;
+  box-shadow: 0 1rem 1.2rem -1rem var(--box-shadow);
+  position: relative;
+  display: grid;
+  place-items: center;
+}
+
+.camera_lens::before {
+  content: "";
+  width: 9rem;
+  height: 9rem;
+  border-radius: 50%;
+  background-color: var(--camera-lens);
+  box-shadow: 0 1rem 1.2rem -1rem var(--box-shadow);
+  position: absolute;
+}
+
+.camera_lens::after {
+  content: "";
+  border-radius: 50%;
+  border-top: 3rem solid #98fb98;
+  border-right: 3rem solid #90ee90;
+  border-bottom: 3rem solid #2ebb57;
+  border-left: 3rem solid #3cb371;
+  box-shadow: 0 1rem 1.2rem -1rem var(--box-shadow);
+  position: absolute;
+}
