@@ -1,8 +1,8 @@
-### Screenshot of Camera Icon
-![Camera Icon](https://github.com/Pankaj-SinghR/CSS-Projects/blob/main/Camera-Icon/Screenshot_1.png)
+### Screenshot of Google Contact
+![Camera Icon](https://github.com/Pankaj-SinghR/CSS-Projects/blob/main/Google-Contact-logo/google_contact.png)
 
-### Link to Camera Icon 
-- [Camera Icon](https://pankaj-singhr.github.io/CSS-Projects/Camera-Icon/)
+### Link to Google Contact
+- [Google Contact](https://pankaj-singhr.github.io/CSS-Projects/Google-Contact-logo/)
 
 ### CSS properties used to build
 - Border-radius
@@ -10,4 +10,7 @@
 - Background-color
 - Sudo classes before and after
 - Grid to center the div
-- CSS variable 
+- Display
+- Height and Width
+- Transform
+- padding
