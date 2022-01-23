@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  height: 500px;
+  background-color: rgb(247, 221, 202);
+  display: grid;
+  justify-content: center;
+}
+
+.header > div {
+  height: 50px;
+  width: 400px;
+  border: 5px solid rgb(100, 98, 98);
+  background-color: rgb(204, 215, 236);
+  border-radius: 3px;
+}
+
+.header > div > div {
+  display: grid;
+  place-items: center;
+  height: 100%;
+  background-color: rgb(243, 136, 136);
+  padding: 1px;
+}
+
+.css {
+  width: calc(50%);
+}
+.javascript {
+  width: calc(30%);
+}
+.react {
+  width: calc(10%);
+}
+.mongodb {
+  width: calc(0%);
+}
+.nodejs {
+  width: calc(0%);
+}
+.angularjs {
+  width: calc(0%);
+}
