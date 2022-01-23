@@ -4,6 +4,9 @@
   box-sizing: border-box;
 }
 
+h2 {
+  color: rgb(84, 90, 79);
+}
 .header {
   height: 500px;
   background-color: rgb(247, 221, 202);
