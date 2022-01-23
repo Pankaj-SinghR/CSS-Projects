@@ -6,4 +6,4 @@
 - [Google chat](https://pankaj-singhr.github.io/CSS-Projects/Google-chat-logo/)
 - [Google photo](https://pankaj-singhr.github.io/CSS-Projects/Google-photos-logo/)
 - [Yin Yang](https://pankaj-singhr.github.io/CSS-Projects/Yin-yang/)
-- [Progress Bar](https://pankaj-singhr.github.io/CSS-Projects/Progress-bar/)
+- [Progress Bar](https://pankaj-singhr.github.io/CSS-Projects/Progress-Bar/)
