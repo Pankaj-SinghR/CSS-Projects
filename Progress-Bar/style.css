@@ -31,13 +31,13 @@ h2 {
 }
 
 .css {
-  width: calc(50%);
+  width: calc(70%);
 }
 .javascript {
-  width: calc(30%);
+  width: calc(60%);
 }
 .react {
-  width: calc(10%);
+  width: calc(20%);
 }
 .mongodb {
   width: calc(0%);
