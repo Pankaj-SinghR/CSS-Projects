@@ -7,3 +7,4 @@
 - [Google photo](https://pankaj-singhr.github.io/CSS-Projects/Google-photos-logo/)
 - [Yin Yang](https://pankaj-singhr.github.io/CSS-Projects/Yin-yang/)
 - [Progress Bar](https://pankaj-singhr.github.io/CSS-Projects/Progress-Bar/)
+- [Bitcoin logo](https://pankaj-singhr.github.io/CSS-Projects/Bitcoin-logo/)
