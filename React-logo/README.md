@@ -1,4 +1,4 @@
-### Screenshot of React logo
+### screenshot of React logo
 
 ![React Logo](https://github.com/Pankaj-SinghR/CSS-Projects/blob/main/React-logo/screenshot_5.png)
 
@@ -15,7 +15,6 @@
 - Display
 - Justify
 - Align
-- Grid
 - Flex
 - CSS elements (before and after)
 
@@ -23,20 +22,20 @@
 
 ### level 1
 
-![React Logo](https://github.com/Pankaj-SinghR/CSS-Projects/blob/main/React-logo/Screenshot_1.png)
+![React Logo](https://github.com/Pankaj-SinghR/CSS-Projects/blob/main/React-logo/screenshot_1.png)
 
 ### level 2
 
-![React Logo](https://github.com/Pankaj-SinghR/CSS-Projects/blob/main/React-logo/Screenshot_2.png)
+![React Logo](https://github.com/Pankaj-SinghR/CSS-Projects/blob/main/React-logo/screenshot_2.png)
 
 ### level 3
 
-![React Logo](https://github.com/Pankaj-SinghR/CSS-Projects/blob/main/React-logo/Screenshot_3.png)
+![React Logo](https://github.com/Pankaj-SinghR/CSS-Projects/blob/main/React-logo/screenshot_3.png)
 
 ### level 4
 
-![React Logo](https://github.com/Pankaj-SinghR/CSS-Projects/blob/main/React-logo/Screenshot_4.png)
+![React Logo](https://github.com/Pankaj-SinghR/CSS-Projects/blob/main/React-logo/screenshot_4.png)
 
 ### Final Project
 
-![React Logo](https://github.com/Pankaj-SinghR/CSS-Projects/blob/main/React-logo/Screenshot_5.png)
+![React Logo](https://github.com/Pankaj-SinghR/CSS-Projects/blob/main/React-logo/screenshot_5.png)
