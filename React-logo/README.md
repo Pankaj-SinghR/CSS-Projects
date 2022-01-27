@@ -1,6 +1,6 @@
 ### Screenshot of React logo
 
-![React Logo](https://github.com/Pankaj-SinghR/CSS-Projects/blob/main/React-logo/Screenshot_5.png)
+![React Logo](https://github.com/Pankaj-SinghR/CSS-Projects/blob/main/React-logo/screenshot_5.png)
 
 ### Link to Progress Bar
 
