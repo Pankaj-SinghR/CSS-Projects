@@ -2,7 +2,7 @@
 
 ![React Logo](https://github.com/Pankaj-SinghR/CSS-Projects/blob/main/React-logo/screenshot_5.png)
 
-### Link to Progress Bar
+### Link to React logo
 
 - [React logo using two div](https://pankaj-singhr.github.io/CSS-Projects/React-logo/)
 
