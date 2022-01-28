@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5deg;
+}
+
+:root {
+  --color-red: #e33e2b;
+  --color-orange: #f1b500;
+  --color-green: #2ca24c;
+  --color-blue: #3a7cec;
+  --background-color: #f4f4f4;
+}
+
+body {
+  min-height: 100vh;
+  background-color: var(--background-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.outer_div {
+  width: 25rem;
+  height: 25rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 10px solid rgb(209, 209, 209);
+  border-radius: 2rem;
+  background-color: #f8f9d2;
+  background-image: linear-gradient(315deg, #f8f9d2 0%, #e8dbfc 74%);
+}
+
+.google_logo {
+  width: 15rem;
+  height: 15rem;
+  background: conic-gradient(
+    var(--color-red) 0deg,
+    var(--color-red) 40deg,
+    transparent 40deg,
+    transparent 80deg,
+    var(--color-blue) 75deg,
+    var(--color-blue) 140deg,
+    var(--color-green) 140deg,
+    var(--color-green) 255deg,
+    var(--color-orange) 255deg,
+    var(--color-orange) 310deg,
+    var(--color-red) 310deg
+  );
+  border-radius: 50%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.google_logo::before {
+  content: "";
+  position: absolute;
+  width: 10rem;
+  height: 10rem;
+  background-color: #f8f9d2;
+  background-image: linear-gradient(315deg, #f8f9d2 0%, #e8dbfc 74%);
+  border-radius: 50%;
+}
+
+.google_logo::after {
+  content: "";
+  position: absolute;
+  width: 7rem;
+  height: 3rem;
+  background-color: var(--color-blue);
+  left: 7.9rem;
+}
