@@ -11,12 +11,11 @@
 - Border-radius
 - Position
 - Background-color
-- Sudo classes before and after
 - Display
 - Justify
 - Align
 - Flex
-- CSS elements (before and after)
+- CSS pseudo elements (before and after)
 
 ## Project level
 

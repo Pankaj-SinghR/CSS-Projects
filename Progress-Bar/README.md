@@ -11,7 +11,7 @@
 - Border-radius
 - Position
 - Background-color
-- Sudo classes before and after
+- CSS pseudo elements (before and after)
 - Display
 - Justify
 - Align
