@@ -35,3 +35,7 @@
 ### Final Project
 
 ![Slack Logo](https://github.com/Pankaj-SinghR/CSS-Projects/blob/main/Slack-logo/screenshot_5.png)
+
+### Enjoy the GIF
+
+![Slack logo gif](https://github.com/Pankaj-SinghR/CSS-Projects/blob/main/Slack-logo/gif_file.gif)
