@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  /* This make the 1rem = 10px */
+}
+
+:root {
+  --background-color: hsl(299deg 56% 19%);
+  --color-blue: hsl(194deg 87% 58%);
+  --color-green: hsl(155deg 60% 45%);
+  --color-red: hsl(341deg 77% 49%);
+  --color-orange: hsl(42deg 83% 55%);
+  --size: 10rem;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: var(--background-color);
+}
+
+.main__div {
+  display: grid;
+  grid-template: repeat(4, var(--size)) / repeat(4, var(--size));
+  grid-gap: 1.5rem;
+  grid-template-areas:
+    ". a b ."
+    "c c b d"
+    "e f g g"
+    ". f h .";
+}
+
+.one {
+  grid-area: a;
+  background-color: var(--color-blue);
+  border-radius: 50% 50% 0 50%;
+}
+.two {
+  grid-area: b;
+  background-color: var(--color-green);
+  border-radius: calc(var(--size) * 2);
+}
+.three {
+  grid-area: c;
+  background-color: var(--color-blue);
+  border-radius: calc(var(--size) * 2);
+}
+.four {
+  grid-area: d;
+  background-color: var(--color-green);
+  border-radius: 50% 50% 50% 0;
+}
+.five {
+  grid-area: e;
+  background-color: var(--color-red);
+  border-radius: 50% 0 50% 50%;
+}
+.six {
+  grid-area: f;
+  background-color: var(--color-red);
+  border-radius: calc(var(--size) * 2);
+}
+.seven {
+  grid-area: g;
+  background-color: var(--color-orange);
+  border-radius: calc(var(--size) * 2);
+}
+.eight {
+  grid-area: h;
+  background-color: var(--color-orange);
+  border-radius: 0 50% 50% 50%;
+}
