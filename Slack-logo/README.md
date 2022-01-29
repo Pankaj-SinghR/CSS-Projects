@@ -1,6 +1,6 @@
 ### screenshot of Slack logo
 
-![React Logo](https://github.com/Pankaj-SinghR/CSS-Projects/blob/main/Slack-logo/screenshot_5.png)
+![Slack Logo](https://github.com/Pankaj-SinghR/CSS-Projects/blob/main/Slack-logo/screenshot_5.png)
 
 ### Link to Slack logo
 
